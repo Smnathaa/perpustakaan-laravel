@@ -3,7 +3,6 @@
 Aplikasi Laravel 12, PHP 8.2+, Blade, CSS lokal, dan MySQL. Tidak perlu npm untuk menjalankan tampilan. Paket berisi source code, bukan vendor/dependensi Composer.
 
 ## Fitur
-- Login/logout pengelola, pembatasan percobaan login, proteksi halaman dan CSRF.
 - Dashboard: jumlah judul, eksemplar, kategori, stok kosong, dan koleksi terbaru.
 - Tambah, lihat detail, edit, hapus buku; konfirmasi penghapusan.
 - Kode buku dan ISBN unik (ISBN opsional); validasi jumlah nonnegatif.
